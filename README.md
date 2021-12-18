@@ -1,0 +1,2 @@
+# captur.string
+ capturr palvra
